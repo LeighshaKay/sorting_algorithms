@@ -1,2 +1,2 @@
-Sorting algorithms
-Sorting algorithms
+# simple_shell
+### 0x1B. C - Sorting algorithms & Big O
